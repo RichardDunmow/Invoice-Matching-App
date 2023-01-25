@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Processing Information" section_id="0c909bd28764e510cae032a80cbb35e8" sys_domain="global" table="x_snc_test_invoi_0_invoice" version="3" view="Workspace-Invoice-Tracker-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>received</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-24 23:34:20</sys_created_on>
+            <sys_id>9490dbd28764e510cae032a80cbb3594</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Processing Information" display_value="Processing Information" name="x_snc_test_invoi_0_invoice" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">0c909bd28764e510cae032a80cbb35e8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-24 23:34:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-24 23:34:20</sys_created_on>
+            <sys_id>9c90dbd28764e510cae032a80cbb3594</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Processing Information" display_value="Processing Information" name="x_snc_test_invoi_0_invoice" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">0c909bd28764e510cae032a80cbb35e8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-24 23:34:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>matching_po</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-24 23:34:20</sys_created_on>
+            <sys_id>9090dbd28764e510cae032a80cbb3595</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Processing Information" display_value="Processing Information" name="x_snc_test_invoi_0_invoice" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">0c909bd28764e510cae032a80cbb35e8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-24 23:34:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Processing Information</caption>
+            <header>false</header>
+            <name>x_snc_test_invoi_0_invoice</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-24 23:34:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c909bd28764e510cae032a80cbb35e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_test_invoi_0_invoice</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+            <sys_update_name>sys_ui_section_0c909bd28764e510cae032a80cbb35e8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-24 23:34:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Invoice Tracker 0" name="Workspace-Invoice-Tracker-0">b49d4b1a1624e5107f1357919648838f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

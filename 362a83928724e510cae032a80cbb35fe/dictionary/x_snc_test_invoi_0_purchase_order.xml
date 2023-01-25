@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ae8a4f928724e510cae032a80cbb3502" label="Purchase Order" max_length="40" name="x_snc_test_invoi_0_purchase_order" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Company" max_length="40" name="company" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Item Description" max_length="40" name="item_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="PO Line Item" max_length="40" name="po_line_item" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="PO Number" max_length="40" name="po_number" type="string"/>
+        <element label="Price" max_length="40" name="price" type="float"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Requester" max_length="40" name="requester" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requesting Department" max_length="40" name="requesting_department" type="string"/>
+        <element label="Total" max_length="40" name="total" type="float"/>
+    </element>
+</database>

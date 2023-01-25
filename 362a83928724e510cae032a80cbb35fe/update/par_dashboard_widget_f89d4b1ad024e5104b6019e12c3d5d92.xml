@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">7c9d4b1a5a24e510b466a3ff2b5aa68d</canvas>
+        <component display_value="Dial">63f050cf050137731a828878839e0b33</component>
+        <component_props>{"configVersion":"22.1.7","minValue":0,"innerRadius":0.7,"valueLabelSize":"md","showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Invoice","sourceType":"table","tableOrViewName":"x_snc_test_invoi_0_invoice","filterQuery":"matching_poISEMPTY","id":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Unmatched Invoice","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MTkxNzIyOA==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNVGt4TnpJeU9BPT0xNjUzODQyMzE4NDk1","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":true,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-24 23:21:17</sys_created_on>
+        <sys_id>f89d4b1ad024e5104b6019e12c3d5d92</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_update_name>par_dashboard_widget_f89d4b1ad024e5104b6019e12c3d5d92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-24 23:32:42</sys_updated_on>
+        <visualization/>
+        <w>4</w>
+        <x>0</x>
+        <y>2</y>
+    </par_dashboard_widget>
+</record_update>

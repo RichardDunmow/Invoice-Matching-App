@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="05cac7d28724e510cae032a80cbb3524" label="Invoice" max_length="40" name="x_snc_test_invoi_0_invoice" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Invoice Line Number" max_length="40" name="invoice_line_number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Invoice Number" max_length="40" name="invoice_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Item Description" max_length="40" name="item_description" type="string"/>
+        <element label="Matching PO" max_length="32" name="matching_po" reference="x_snc_test_invoi_0_purchase_order" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="PO Line Item" max_length="40" name="po_line_item" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="PO Number" max_length="40" name="po_number" type="string"/>
+        <element label="Price" max_length="40" name="price" type="float"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="Received" max_length="40" name="received" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Supplier" max_length="40" name="supplier" type="string"/>
+        <element label="Total" max_length="40" name="total" type="float"/>
+        <index name="index">
+            <element name="matching_po"/>
+        </index>
+    </element>
+</database>

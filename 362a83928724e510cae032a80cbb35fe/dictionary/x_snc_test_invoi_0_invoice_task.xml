@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="492b87168724e510cae032a80cbb3531" extends="task" label="Invoice Task" max_length="40" name="x_snc_test_invoi_0_invoice_task" text_index="true" type="collection">
+        <element label="Invoice" max_length="32" name="invoice" reference="x_snc_test_invoi_0_invoice" type="reference"/>
+    </element>
+</database>

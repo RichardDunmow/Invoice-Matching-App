@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app invoice-tracker">359d8b1a8724e510cae032a80cbb35de</applicability>
+        <list display_value="Open">ce9dcb1a8724e510cae032a80cbb3570</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-24 23:21:21</sys_created_on>
+        <sys_id>ce9dcb1a8724e510cae032a80cbb3572</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_ce9dcb1a8724e510cae032a80cbb3572</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-24 23:21:21</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

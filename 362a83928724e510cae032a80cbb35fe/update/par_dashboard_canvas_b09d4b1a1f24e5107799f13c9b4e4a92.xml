@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Invoice Tracker">709d4b1a5f24e5101a141adfbaa9ed8d</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-24 23:21:17</sys_created_on>
+        <sys_id>b09d4b1a1f24e5107799f13c9b4e4a92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_update_name>par_dashboard_canvas_b09d4b1a1f24e5107799f13c9b4e4a92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-24 23:21:17</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>
