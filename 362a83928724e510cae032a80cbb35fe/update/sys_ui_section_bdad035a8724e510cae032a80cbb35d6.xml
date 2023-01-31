@@ -1,142 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="bdad035a8724e510cae032a80cbb35d6" sys_domain="global" table="x_snc_test_invoi_0_purchase_order" version="3" view="Workspace-Invoice-Tracker-0">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>31ad035a8724e510cae032a80cbb35d8</sys_id>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>92d9ac284730a110068efdc9636d43d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
             <sys_user/>
-            <type>.begin_split</type>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>po_number</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>35ad035a8724e510cae032a80cbb35d8</sys_id>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>16d9ac284730a110068efdc9636d43d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>date</element>
+            <element>price</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>39ad035a8724e510cae032a80cbb35d8</sys_id>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>96d9ac284730a110068efdc9636d43d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>total</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>3dad035a8724e510cae032a80cbb35d8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>po_line_item</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>31ad035a8724e510cae032a80cbb35d9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>requesting_department</element>
-            <position>5</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>35ad035a8724e510cae032a80cbb35d9</sys_id>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>1ad9ac284730a110068efdc9636d43d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>item_description</element>
-            <position>6</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>39ad035a8724e510cae032a80cbb35d9</sys_id>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>9ad9ac284730a110068efdc9636d43d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>7</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>3dad035a8724e510cae032a80cbb35d9</sys_id>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>1ed9ac284730a110068efdc9636d43d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>price</element>
-            <position>8</position>
+            <element>date</element>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>31ad035a8724e510cae032a80cbb35da</sys_id>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>9ed9ac284730a110068efdc9636d43d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>po_line_item</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>12d9ac284730a110068efdc9636d43d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>quantity</element>
-            <position>9</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>35ad035a8724e510cae032a80cbb35da</sys_id>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>92d9ac284730a110068efdc9636d43d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>16d9ac284730a110068efdc9636d43d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,57 +144,29 @@
             <element>company</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>39ad035a8724e510cae032a80cbb35da</sys_id>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>96d9ac284730a110068efdc9636d43d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>po_number</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>3dad035a8724e510cae032a80cbb35da</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>requester</element>
-            <position>12</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>31ad035a8724e510cae032a80cbb35db</sys_id>
+            <sys_created_on>2023-01-31 11:12:15</sys_created_on>
+            <sys_id>1ad9ac284730a110068efdc9636d43d8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
+            <sys_updated_on>2023-01-31 11:12:15</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>13</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-01-24 23:21:37</sys_created_on>
-            <sys_id>35ad035a8724e510cae032a80cbb35db</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_test_invoi_0_purchase_order" sys_domain="global" view="b49d4b1a1624e5107f1357919648838f">bdad035a8724e510cae032a80cbb35d6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-01-24 23:21:37</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
