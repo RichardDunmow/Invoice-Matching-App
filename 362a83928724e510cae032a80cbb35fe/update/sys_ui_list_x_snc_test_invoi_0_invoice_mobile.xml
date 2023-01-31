@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="5fc3c3731b0021101299fff4464bcbd6">da3d0bd68724e510cae032a80cbb3531</list_id>
+            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="d9c9376397230110f876fb07f053af08">da3d0bd68724e510cae032a80cbb3531</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>date</element>
-            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="5fc3c3731b0021101299fff4464bcbd6">da3d0bd68724e510cae032a80cbb3531</list_id>
+            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="d9c9376397230110f876fb07f053af08">da3d0bd68724e510cae032a80cbb3531</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>invoice_line_number</element>
-            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="5fc3c3731b0021101299fff4464bcbd6">da3d0bd68724e510cae032a80cbb3531</list_id>
+            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="d9c9376397230110f876fb07f053af08">da3d0bd68724e510cae032a80cbb3531</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>invoice_number</element>
-            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="5fc3c3731b0021101299fff4464bcbd6">da3d0bd68724e510cae032a80cbb3531</list_id>
+            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="d9c9376397230110f876fb07f053af08">da3d0bd68724e510cae032a80cbb3531</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>item_description</element>
-            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="5fc3c3731b0021101299fff4464bcbd6">da3d0bd68724e510cae032a80cbb3531</list_id>
+            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="d9c9376397230110f876fb07f053af08">da3d0bd68724e510cae032a80cbb3531</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -78,7 +78,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>matching_po</element>
-            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="5fc3c3731b0021101299fff4464bcbd6">da3d0bd68724e510cae032a80cbb3531</list_id>
+            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="d9c9376397230110f876fb07f053af08">da3d0bd68724e510cae032a80cbb3531</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -93,7 +93,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>po_line_item</element>
-            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="5fc3c3731b0021101299fff4464bcbd6">da3d0bd68724e510cae032a80cbb3531</list_id>
+            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="d9c9376397230110f876fb07f053af08">da3d0bd68724e510cae032a80cbb3531</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -108,7 +108,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>po_number</element>
-            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="5fc3c3731b0021101299fff4464bcbd6">da3d0bd68724e510cae032a80cbb3531</list_id>
+            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="d9c9376397230110f876fb07f053af08">da3d0bd68724e510cae032a80cbb3531</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
@@ -123,7 +123,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>price</element>
-            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="5fc3c3731b0021101299fff4464bcbd6">da3d0bd68724e510cae032a80cbb3531</list_id>
+            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="d9c9376397230110f876fb07f053af08">da3d0bd68724e510cae032a80cbb3531</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
@@ -138,7 +138,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>quantity</element>
-            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="5fc3c3731b0021101299fff4464bcbd6">da3d0bd68724e510cae032a80cbb3531</list_id>
+            <list_id display_value="x_snc_test_invoi_0_invoice" element="NULL" name="x_snc_test_invoi_0_invoice" parent="NULL" relationship="NULL" sys_domain="global" view="d9c9376397230110f876fb07f053af08">da3d0bd68724e510cae032a80cbb3531</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
@@ -175,7 +175,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-01-24 23:19:44</sys_updated_on>
             <sys_user/>
-            <view display_value="Mobile" name="Mobile">5fc3c3731b0021101299fff4464bcbd6</view>
+            <view display_value="Mobile" name="Mobile">d9c9376397230110f876fb07f053af08</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

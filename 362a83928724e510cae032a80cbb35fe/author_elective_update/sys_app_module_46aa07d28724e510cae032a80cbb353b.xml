@@ -65,7 +65,7 @@
         <update_guid_history>8eaa07d20e24e5107e1880bd2ca7b63c:318243362</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Test Invoi 0 1674601710491">daca4bd28724e510cae032a80cbb3547</sys_audit_delete>
+        <sys_audit_delete display_value="">daca4bd28724e510cae032a80cbb3547</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-24 23:09:05</sys_created_on>

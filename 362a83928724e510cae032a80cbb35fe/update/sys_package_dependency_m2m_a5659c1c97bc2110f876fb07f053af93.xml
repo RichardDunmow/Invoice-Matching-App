@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="Task table schema" source="com.glide.task">60d4cfb71b0021101299fff4464bcb29</dependency>
+        <dependency display_value="Task table schema" source="com.glide.task">516a7fa797230110f876fb07f053af64</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-24 23:10:38</sys_created_on>
-        <sys_id>cd2b87168724e510cae032a80cbb3546</sys_id>
+        <sys_id>a5659c1c97bc2110f876fb07f053af93</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
         <sys_updated_by>admin</sys_updated_by>
