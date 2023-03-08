@@ -5,8 +5,8 @@
         <genius_result_assembly/>
         <label>Invoice Tracker search profile</label>
         <name>x_snc_test_invoi_0_uwusgpll_search_profile</name>
-        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
-        <state>DRAFT</state>
+        <publish_id>d07d72ff-7d2e-4a01-946a-1334789c3200</publish_id>
+        <state>PUBLISHED</state>
         <sys_class_name>ais_search_profile</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-24 23:21:17</sys_created_on>
