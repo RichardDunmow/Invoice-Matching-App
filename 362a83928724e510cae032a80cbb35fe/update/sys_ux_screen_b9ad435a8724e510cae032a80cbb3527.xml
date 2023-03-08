@@ -63,9 +63,9 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Invoice Record Page</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_package display_value="Invoice Matching V2" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope display_value="Invoice Matching V2">362a83928724e510cae032a80cbb35fe</sys_scope>
         <sys_update_name>sys_ux_screen_b9ad435a8724e510cae032a80cbb3527</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-01-24 23:21:36</sys_updated_on>

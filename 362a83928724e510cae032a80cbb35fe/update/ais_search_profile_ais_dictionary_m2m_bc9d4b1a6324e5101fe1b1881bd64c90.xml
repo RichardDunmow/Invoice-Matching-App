@@ -10,9 +10,9 @@
         <sys_id>bc9d4b1a6324e5101fe1b1881bd64c90</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>default_synonym_dictionary.Invoice Tracker search profile</sys_name>
-        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_package display_value="Invoice Matching V2" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope display_value="Invoice Matching V2">362a83928724e510cae032a80cbb35fe</sys_scope>
         <sys_update_name>ais_search_profile_ais_dictionary_m2m_bc9d4b1a6324e5101fe1b1881bd64c90</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-01-24 23:21:18</sys_updated_on>
