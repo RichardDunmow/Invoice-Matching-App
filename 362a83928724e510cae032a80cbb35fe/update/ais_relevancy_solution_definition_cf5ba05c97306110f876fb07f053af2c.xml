@@ -2,7 +2,7 @@
     <ais_relevancy_solution_definition action="INSERT_OR_UPDATE">
         <active>true</active>
         <capability display_value="Search Relevancy">458c3b2ab72300100e173307fe11a923</capability>
-        <current_solution_version>1</current_solution_version>
+        <current_solution_version>4</current_solution_version>
         <dataset_language>en</dataset_language>
         <fields>signal_json</fields>
         <filter table="ais_relevancy_training_staging">sys_created_onONLast 30 days@javascript:gs.beginningOfLast30Days()@javascript:gs.endOfLast30Days()^search_profile=395ba05c3e30611038a0ee10ce18be43^EQ<item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="Last 30 days@javascript:gs.beginningOfLast30Days()@javascript:gs.endOfLast30Days()"/>
@@ -24,9 +24,9 @@
         <sys_id>cf5ba05c97306110f876fb07f053af2c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ais_relevancy_395ba05c3e30611038a0ee10ce18be43</sys_name>
-        <sys_package display_value="Invoice Matching V2" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Invoice Matching V2">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
         <sys_update_name>ais_relevancy_solution_definition_cf5ba05c97306110f876fb07f053af2c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-01-30 16:40:24</sys_updated_on>

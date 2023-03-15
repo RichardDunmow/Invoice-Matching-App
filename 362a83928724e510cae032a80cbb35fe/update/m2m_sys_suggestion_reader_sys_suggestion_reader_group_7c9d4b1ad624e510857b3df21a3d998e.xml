@@ -9,9 +9,9 @@
         <sys_id>7c9d4b1ad624e510857b3df21a3d998e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="Invoice Matching V2" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Invoice Matching V2">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
         <sys_suggestion_reader_group_id display_value="Suggested Result Reader Group for Starter Workspace AI Search Configuration">fc9d4b1aef24e51010feea50cbddf692</sys_suggestion_reader_group_id>
         <sys_suggestion_reader_id display_value="Personal Click Reader">ec49ee515b511010627eed35cc81c7b9</sys_suggestion_reader_id>
         <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_7c9d4b1ad624e510857b3df21a3d998e</sys_update_name>

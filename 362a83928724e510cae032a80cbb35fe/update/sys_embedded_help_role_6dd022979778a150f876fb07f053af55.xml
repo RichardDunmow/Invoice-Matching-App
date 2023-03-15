@@ -8,9 +8,9 @@
         <sys_id>6dd022979778a150f876fb07f053af55</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>a1d022979778a150f876fb07f053af3c</sys_name>
-        <sys_package display_value="Invoice Matching V2" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Invoice Matching V2">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
         <sys_update_name>sys_embedded_help_role_6dd022979778a150f876fb07f053af55</sys_update_name>
         <sys_updated_by>Admin</sys_updated_by>
         <sys_updated_on>2023-02-09 08:55:26</sys_updated_on>
