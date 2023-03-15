@@ -22,16 +22,16 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_snc_test_invoi_0</source>
-        <store_correlation_id>REPOAPP0000001519</store_correlation_id>
+        <store_correlation_id>REPOAPP0000001520</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-24 23:06:24</sys_created_on>
         <sys_id>362a83928724e510cae032a80cbb35fe</sys_id>
-        <sys_mod_count>22</sys_mod_count>
-        <sys_updated_by>Ellie</sys_updated_by>
-        <sys_updated_on>2023-03-15 13:25:55</sys_updated_on>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-15 13:26:27</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
