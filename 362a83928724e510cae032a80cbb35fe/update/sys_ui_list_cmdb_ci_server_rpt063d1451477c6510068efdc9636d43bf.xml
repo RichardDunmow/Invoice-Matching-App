@@ -33,9 +33,9 @@
             <sys_id>ca3d1451477c6510068efdc9636d43c6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>cmdb_ci_server</sys_name>
-            <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+            <sys_package display_value="Invoice Matching Demo Application" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
             <sys_policy/>
-            <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+            <sys_scope display_value="Invoice Matching Demo Application">362a83928724e510cae032a80cbb35fe</sys_scope>
             <sys_update_name>sys_ui_list_cmdb_ci_server_RPT063d1451477c6510068efdc9636d43bf</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-02-02 18:12:32</sys_updated_on>

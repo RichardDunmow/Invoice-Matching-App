@@ -57,7 +57,7 @@
         <sys_name>Verify Oracle</sys_name>
         <sys_package display_value="Data Certification" source="com.snc.certification_v2">c299e47797234110f876fb07f053aff7</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope display_value="Invoice Matching Demo Application">362a83928724e510cae032a80cbb35fe</sys_scope>
         <sys_update_name>cert_instance_f6c8ce5097d16510f876fb07f053afde</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-02-24 20:00:01</sys_updated_on>

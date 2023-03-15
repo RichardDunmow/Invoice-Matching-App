@@ -69,7 +69,7 @@
     </sys_dictionary>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</application>
+        <application display_value="Invoice Matching Demo Application">362a83928724e510cae032a80cbb35fe</application>
         <file_path/>
         <instance_id>81b0037fdb442910b847ac44d4961969</instance_id>
         <instance_name>demobuildwf27505</instance_name>
@@ -102,10 +102,10 @@
         <sys_metadata>b9aac3d28724e510cae032a80cbb35ef</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Date</sys_name>
-        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_package display_value="Invoice Matching Demo Application" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
         <sys_parent display_value="">f1aac3d28724e510cae032a80cbb3579</sys_parent>
         <sys_policy/>
-        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope display_value="Invoice Matching Demo Application">362a83928724e510cae032a80cbb35fe</sys_scope>
         <sys_scope_delete display_value="">72405f8074f24d389174901f88884184</sys_scope_delete>
         <sys_update_name>sys_dictionary_x_snc_test_invoi_0_1674601710491_u_date</sys_update_name>
         <sys_update_version display_value="sys_dictionary_x_snc_test_invoi_0_1674601710491_u_date">caaa07d28724e510cae032a80cbb352e</sys_update_version>

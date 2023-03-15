@@ -6,9 +6,9 @@
         <sys_id>f92bc7168724e510cae032a80cbb3537</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_test_invoi_0_invoice_task.x_snc_test_invoi_0.user</sys_name>
-        <sys_package display_value="Invoice Matching" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
+        <sys_package display_value="Invoice Matching Demo Application" source="x_snc_test_invoi_0">362a83928724e510cae032a80cbb35fe</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Invoice Matching">362a83928724e510cae032a80cbb35fe</sys_scope>
+        <sys_scope display_value="Invoice Matching Demo Application">362a83928724e510cae032a80cbb35fe</sys_scope>
         <sys_security_acl display_value="x_snc_test_invoi_0_invoice_task">792bc7168724e510cae032a80cbb351b</sys_security_acl>
         <sys_update_name>sys_security_acl_role_f92bc7168724e510cae032a80cbb3537</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
